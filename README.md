@@ -9,13 +9,14 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Mathias Collas-Jourdan"
-        sefl.language = [ "python", "javascript", "typescript", "php", "C", "HTML/CSS"]
         self.role = "Software Engineer"
         self.school = "ESGI"
         self.company = "Hubvisor"
         self.language_spoken = ["fr_FR", "en_US"]
+        sefl.language = [ "python", "javascript", "typescript", "C", "php", "HTML/CSS"]
+        self.ide = "visual studio code"
 
-    def say_hi(self):
+    def say_hi(self, message):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
