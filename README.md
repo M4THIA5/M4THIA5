@@ -10,8 +10,8 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Mathias Collas-Jourdan"
         self.role = "Software Engineer"
-        self.school = "ESGI"
-        self.company = "Hubvisor"
+        self.school = "ESGI - https://www.esgi.fr"
+        self.company = "Hubvisor - https://www.hubvisor.io"
         self.language_spoken = ["fr_FR", "en_US"]
         sefl.language = [ "python", "javascript", "typescript", "C", "php", "HTML/CSS"]
         self.ide = "visual studio code"
