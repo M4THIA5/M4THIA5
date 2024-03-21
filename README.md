@@ -23,3 +23,8 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+# Skills
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</div>
