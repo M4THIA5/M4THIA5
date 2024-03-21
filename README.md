@@ -13,7 +13,7 @@ class SoftwareEngineer:
         self.school = "ESGI - https://www.esgi.fr"
         self.company = "Hubvisor - https://www.hubvisor.io"
         self.language_spoken = ["fr_FR", "en_US"]
-        sefl.language = [ "python", "javascript", "typescript", "C", "php", "HTML/CSS"]
+        sefl.skills = [ "python", "javascript", "typescript", "C", "git", "php"]
         self.ide = "visual studio code"
 
     def say_hi(self, message):
@@ -30,7 +30,6 @@ me.say_hi()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40" width="52" alt="git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" width="52" alt="php logo"/>
 </div>
