@@ -16,7 +16,7 @@ class SoftwareEngineer:
         sefl.skills = [ "python", "javascript", "typescript", "C", "git", "php"]
         self.ide = "visual studio code"
 
-    def say_hi(self, message):
+    def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
