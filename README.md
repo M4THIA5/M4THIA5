@@ -13,7 +13,7 @@ class SoftwareEngineer:
         self.school = "ESGI - https://www.esgi.fr"
         self.company = "Hubvisor - https://www.hubvisor.io"
         self.language_spoken = ["fr_FR", "en_US"]
-        sefl.skills = [ "typescript", "javascript", "python", "C", "git", "php"]
+        sefl.skills = [ "typescript", "javascript", "python", "C", "git"]
         self.ide = "visual studio code"
 
     def say_hi(self):
